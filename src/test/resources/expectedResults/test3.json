@@ -1,0 +1,66 @@
+[
+  {
+    "field0": "valueA1",
+    "fieldB": "valueB1",
+    "field2": "valueC1",
+    "fieldE": "valueE1",
+    "field5": "valueF1",
+    "fieldD": "valueD1"
+  },
+  {
+    "field0": "valueA2",
+    "fieldB": "valueB2",
+    "field2": "valueC2",
+    "fieldE": "valueE2",
+    "field5": "valueF2",
+    "fieldD": "valueD2"
+  },
+  {
+    "field0": "valueA3",
+    "fieldB": "valueB3",
+    "field2": "valueC3",
+    "fieldE": "valueE3",
+    "field5": "valueF3",
+    "fieldD": "valueD3"
+  },
+  {
+    "field0": "valueA4",
+    "fieldB": "valueB4",
+    "field2": "valueC4",
+    "fieldE": "valueE4",
+    "field5": "valueF4",
+    "fieldD": "valueD4"
+  },
+  {
+    "field0": "valueA5",
+    "fieldB": "valueB5",
+    "field2": "valueC5",
+    "fieldE": "valueE5",
+    "field5": "valueF5",
+    "fieldD": "valueD5"
+  },
+  {
+    "field0": "valueA6",
+    "fieldB": "valueB6",
+    "field2": "valueC6",
+    "fieldE": "valueE6",
+    "field5": "valueF6",
+    "fieldD": "valueD6"
+  },
+  {
+    "field0": "valueA7",
+    "fieldB": "valueB7",
+    "field2": "valueC7",
+    "fieldE": "valueE7",
+    "field5": "valueF7",
+    "fieldD": "valueD7"
+  },
+  {
+    "field0": "valueA8",
+    "fieldB": "valueB8",
+    "field2": "valueC8",
+    "fieldE": "valueE8",
+    "field5": "valueF8",
+    "fieldD": "valueD8"
+  }
+]
